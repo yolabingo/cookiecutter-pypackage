@@ -85,6 +85,8 @@ def test_bake_with_defaults(cookies):
         assert 'tox.ini' in found_toplevel_files
         assert 'tests' in found_toplevel_files
         assert 'travis_pypi_setup.py' in found_toplevel_files
+        assert 'punch_config.py' in found_toplevel_files
+        assert 'punch_version.py' in found_toplevel_files
 
 
 def test_bake_and_run_tests(cookies):
