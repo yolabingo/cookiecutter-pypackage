@@ -28,7 +28,7 @@ For Every Release
 
     .. code-block:: bash
 
-        bumpversion minor
+        punch --part minor
 
 #. Install the package again for local development, but with the new version number:
 
