@@ -94,7 +94,7 @@ Your virtualenv should still be activated. If it isn't, activate it now. Install
 
 .. code-block:: bash
 
-    pip install -r requirements_dev.txt
+    pip install -r requirements/dev.txt
 
 If you have issues building the wheel for cryptography, make sure that the required dependencies are installed. Follow the `Cryptography Instruction`_ for your OS
 

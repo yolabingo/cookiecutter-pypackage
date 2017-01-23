@@ -19,7 +19,7 @@ Features
 * Travis-CI_: Ready for Travis Continuous Integration testing
 * Tox_ testing: Setup to easily test for Python 2.6, 2.7, 3.3, 3.4, 3.5
 * Sphinx_ docs: Documentation ready for generation with, for example, ReadTheDocs_
-* Bumpversion_: Pre-configured version bumping with a single command
+* Punch_: Pre-configured version updater with a single command
 * Auto-release to PyPI_ when you push a new tag to master (optional)
 * Command line interface using Click (optional)
 
@@ -117,7 +117,7 @@ make my own packaging experience better.
 .. _Sphinx: http://sphinx-doc.org/
 .. _ReadTheDocs: https://readthedocs.io/
 .. _`pyup.io`: https://pyup.io/
-.. _Bumpversion: https://github.com/peritus/bumpversion
+.. _Punch: https://github.com/lgiordani/punch
 .. _PyPi: https://pypi.python.org/pypi
 
 .. _`Nekroze/cookiecutter-pypackage`: https://github.com/Nekroze/cookiecutter-pypackage
