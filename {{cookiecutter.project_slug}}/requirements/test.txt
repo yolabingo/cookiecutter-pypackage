@@ -1,6 +1,6 @@
--r prod.txt
-tox==2.6.0
-coverage==4.1
+-r dev.txt
+tox
+coverage
 {% if cookiecutter.use_pytest == 'y' -%}
-pytest==3.0.7
-pytest-cov==2.4.0{%- endif %}
+pytest
+pytest-cov{%- endif %}
