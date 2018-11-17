@@ -1,0 +1,8 @@
+PyYAML
+pytest
+tox
+cryptography
+cookiecutter
+pytest-cookies
+watchdog
+alabaster
