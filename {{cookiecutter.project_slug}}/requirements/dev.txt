@@ -1,4 +1,4 @@
--r prod.txt
+-r test.txt
 pip
 punch.py
 wheel
